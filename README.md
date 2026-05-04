@@ -26,7 +26,7 @@ Projeto focado em prática de backend, streams, manipulação de arquivos e boas
 ## ⚙️ Como rodar
 
 ### 1. Clone o projeto
-git clone 
+git clone https://github.com/r4s3n/CRUD_tarefas.git
 
 ### 2. Instale as dependências
 npm install
@@ -80,9 +80,11 @@ file: arquivo.csv
 
 ## 📄 Exemplo de CSV
 
+```csv:
 title;description
 Task 01;Descricao da Task 01
 Task 02;Descricao da Task 02
+```
 
 ## 🧠 Regras de negócio
 
