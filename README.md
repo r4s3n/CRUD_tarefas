@@ -78,6 +78,8 @@ Body:
 multipart/form-data
 file: arquivo.csv
 
+---
+
 ## 📄 Exemplo de CSV
 
 ```csv:
